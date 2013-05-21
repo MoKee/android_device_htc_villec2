@@ -1,0 +1,17 @@
+[
+    {
+        "repository": "MoKee/android_kernel_htc_villec2",
+        "target_path": "kernel/htc/villec2",
+        "branch": "jb-mr1_mkt"
+    },
+    {
+        "repository": "github/arco/android_hardware_qcom_display-legacy",
+        "target_path": "hardware/qcom/display-legacy",
+        "branch": "cm-10.1"
+    },
+    {
+        "repository": "github/arco/android_hardware_qcom_media-legacy",
+        "target_path": "hardware/qcom/media-legacy",
+        "branch": "cm-10.1"
+    }
+]
