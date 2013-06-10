@@ -12,7 +12,7 @@
     {
         "repository": "arco/android_hardware_qcom_display-legacy",
         "target_path": "hardware/qcom/display-legacy",
-        "branch": "cm-10.1",
+        "branch": "cm-10.1_old",
         "remote": "local"
     },
     {
